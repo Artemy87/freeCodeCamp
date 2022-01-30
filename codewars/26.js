@@ -1,0 +1,1 @@
+const multiply = (first, second) => first * second;
