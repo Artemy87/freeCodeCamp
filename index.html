@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Title</title>
+</head>
+<body>
+	<script>
+
+		function orderType(arr) {
+			let newArr = [];
+			arr.forEach((cur, item) => {
+				let v = arr[item + (cur.length - 1)];
+				// console.log(cur.length)
+				console.log(v.length)
+
+				// if (cur.length < v.length) {
+				// 	newArr.push('Decreasing');
+				// }
+				// if (cur.length > v.length) {
+				// 	newArr.push('Increasing')
+				// }
+				// if (cur.length === v.length) {
+				// 	newArr.push('Constant')
+				// } else {
+				// 	newArr.push('Unsorted')
+				// }
+			}, 0);
+			return newArr;
+		}
+
+
+
+		console.log(orderType(['abcd', 'abcd', 'abcc']));
+		console.log('----')
+		console.log(orderType(['a', 'b', 'c']));
+		console.log('----')
+		console.log(orderType([['yz'], ['uv', 'wx'], ['ab', 'cdef', 'g'], ['hi', 'jk', 'lmnopq']]));
+		console.log('----')
+		console.log(orderType(['abc', 'abcde', 'c']));
+
+	</script>
+</body>
+</html>
