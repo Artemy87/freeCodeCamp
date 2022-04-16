@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f50128fd-014b-40d6-90fa-93cbc974e18d" name="Changes" comment="" />
+    <list default="true" id="f50128fd-014b-40d6-90fa-93cbc974e18d" name="Changes" comment="6kyu: Sort Arrays (Ignoring Case)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,10 +62,34 @@
       <workItem from="1648549406855" duration="4621000" />
       <workItem from="1648583878172" duration="966000" />
       <workItem from="1648637409816" duration="933000" />
+      <workItem from="1649406954231" duration="616000" />
     </task>
+    <task id="LOCAL-00001" summary="6kyu: Sort Arrays (Ignoring Case)">
+      <created>1649407179492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649407179492</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="6kyu: Sort Arrays (Ignoring Case)" />
+    <option name="LAST_COMMIT_MESSAGE" value="6kyu: Sort Arrays (Ignoring Case)" />
   </component>
 </project>
