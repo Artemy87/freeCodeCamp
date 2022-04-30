@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f50128fd-014b-40d6-90fa-93cbc974e18d" name="Changes" comment="6kyu: Sort Arrays (Ignoring Case)" />
+    <list default="true" id="f50128fd-014b-40d6-90fa-93cbc974e18d" name="Changes" comment="6kyu: 'Odd-heavy Array'">
+      <change afterPath="$PROJECT_DIR$/codewars/65.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +67,8 @@
       <workItem from="1648637409816" duration="933000" />
       <workItem from="1649406954231" duration="616000" />
       <workItem from="1650091651199" duration="2555000" />
+      <workItem from="1651224174207" duration="328000" />
+      <workItem from="1651310903060" duration="409000" />
     </task>
     <task id="LOCAL-00001" summary="6kyu: Sort Arrays (Ignoring Case)">
       <created>1649407179492</created>
@@ -72,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649407179492</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="6kyu: 'Odd-heavy Array'">
+      <created>1651224384563</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651224384563</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="6kyu: Sort Arrays (Ignoring Case)" />
-    <option name="LAST_COMMIT_MESSAGE" value="6kyu: Sort Arrays (Ignoring Case)" />
+    <MESSAGE value="6kyu: 'Odd-heavy Array'" />
+    <option name="LAST_COMMIT_MESSAGE" value="6kyu: 'Odd-heavy Array'" />
   </component>
 </project>
