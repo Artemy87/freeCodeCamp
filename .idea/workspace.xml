@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f50128fd-014b-40d6-90fa-93cbc974e18d" name="Changes" comment="6kyu: 'Array.diff'">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f50128fd-014b-40d6-90fa-93cbc974e18d" name="Changes" comment="7kyu: You're a square!">
+      <change beforePath="$PROJECT_DIR$/codewars/67.js" beforeDir="false" afterPath="$PROJECT_DIR$/codewars/67.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +68,7 @@
       <workItem from="1650091651199" duration="2555000" />
       <workItem from="1651224174207" duration="328000" />
       <workItem from="1651310903060" duration="1291000" />
+      <workItem from="1652083596653" duration="762000" />
     </task>
     <task id="LOCAL-00001" summary="6kyu: Sort Arrays (Ignoring Case)">
       <created>1649407179492</created>
@@ -90,7 +91,28 @@
       <option name="project" value="LOCAL" />
       <updated>1651311418926</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="7kyu: You're a square!">
+      <created>1652083682851</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652083682851</updated>
+    </task>
+    <task id="LOCAL-00005" summary="7kyu: You're a square!">
+      <created>1652083687143</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652083687143</updated>
+    </task>
+    <task id="LOCAL-00006" summary="7kyu: You're a square!">
+      <created>1652083827162</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652083827162</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +133,7 @@
     <MESSAGE value="6kyu: Sort Arrays (Ignoring Case)" />
     <MESSAGE value="6kyu: 'Odd-heavy Array'" />
     <MESSAGE value="6kyu: 'Array.diff'" />
-    <option name="LAST_COMMIT_MESSAGE" value="6kyu: 'Array.diff'" />
+    <MESSAGE value="7kyu: You're a square!" />
+    <option name="LAST_COMMIT_MESSAGE" value="7kyu: You're a square!" />
   </component>
 </project>
