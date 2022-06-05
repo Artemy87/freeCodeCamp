@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f50128fd-014b-40d6-90fa-93cbc974e18d" name="Changes" comment="7kyu: You're a square!">
-      <change beforePath="$PROJECT_DIR$/codewars/67.js" beforeDir="false" afterPath="$PROJECT_DIR$/codewars/67.js" afterDir="false" />
-    </list>
+    <list default="true" id="f50128fd-014b-40d6-90fa-93cbc974e18d" name="Changes" comment="6kyu: Mexican Wave" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +67,7 @@
       <workItem from="1651224174207" duration="328000" />
       <workItem from="1651310903060" duration="1291000" />
       <workItem from="1652083596653" duration="762000" />
+      <workItem from="1654071719887" duration="750000" />
     </task>
     <task id="LOCAL-00001" summary="6kyu: Sort Arrays (Ignoring Case)">
       <created>1649407179492</created>
@@ -112,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652083827162</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="6kyu: Mexican Wave">
+      <created>1654071938845</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654071938845</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +140,7 @@
     <MESSAGE value="6kyu: 'Odd-heavy Array'" />
     <MESSAGE value="6kyu: 'Array.diff'" />
     <MESSAGE value="7kyu: You're a square!" />
-    <option name="LAST_COMMIT_MESSAGE" value="7kyu: You're a square!" />
+    <MESSAGE value="6kyu: Mexican Wave" />
+    <option name="LAST_COMMIT_MESSAGE" value="6kyu: Mexican Wave" />
   </component>
 </project>
